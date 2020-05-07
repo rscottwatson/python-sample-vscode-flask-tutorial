@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="C02X823JJGH5" name="pytest" skipped="0" tests="0" time="0.009" timestamp="2020-05-07T17:53:43.967090"></testsuite></testsuites>
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="C02X823JJGH5" name="pytest" skipped="0" tests="1" time="0.031" timestamp="2020-05-07T18:00:27.880498"><testcase classname="test_test1" file="test_test1.py" line="0" name="test_printmessage" time="0.001"></testcase></testsuite></testsuites>
